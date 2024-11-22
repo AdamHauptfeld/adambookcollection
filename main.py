@@ -93,7 +93,7 @@ def main():
 
     if selected_page == 'Filter and Aggregate':
         st.title("Adam's Book Collection")
-        st.subheader("Let's do some aggregations:")
+        st.subheader("Let's find some numbers:")
         perform_and_display_aggregations(book_table)
 
     if selected_page == 'Make-a-Viz':

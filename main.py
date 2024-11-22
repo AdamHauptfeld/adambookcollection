@@ -56,7 +56,7 @@ def main():
 
         #This displays the simplified table and also stores the row of any selection the user makes.
         selected_row = st.dataframe(book_table[['title', 'author', 'genre', 'year', 'keywords']],
-        #hide_index=True,
+        hide_index=True,
         column_config={'_index':'Select'},
         on_select='rerun',
         selection_mode='single-row'

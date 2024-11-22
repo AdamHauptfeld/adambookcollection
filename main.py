@@ -37,8 +37,6 @@ st.set_page_config(layout="wide")
 
 
 def main():
-    # When I upload this to Github, I'll need a folder in my repo called "book_tables," and the path to read my csv will be "book_tables\adam_book_collection_
-    # webapp_version.csv" with the quotes.
     book_table = pd.read_csv(r"adam_book_collection_webapp_version.csv")
     
     with st.sidebar:
@@ -51,7 +49,7 @@ def main():
 
     if selected_page == 'The Dataset':
         st.title("Adam's Book Collection")
-        st.write("Select a title to view details and a link to purchase.")
+        st.write("Select a title to view details, or click a column header to sort.")
         book_table['original_copyright_year'] = book_table['original_copyright_year'].astype(str).str.replace(",", "")
         book_table.rename(columns={'original_copyright_year': 'year'}, inplace=True)
 

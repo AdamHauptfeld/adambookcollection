@@ -84,7 +84,7 @@ def main():
 
     if selected_page == 'About the project':
             st.title("Adam's Book Collection")
-            st.write("Smoooch")
+            st.write("Under construction.")
 
     if selected_page == 'Visualizations':
         st.title("Adam's Book Collection")
@@ -97,7 +97,7 @@ def main():
 
     if selected_page == 'Make-a-Viz':
         st.title("Adam's Book Collection")
-        st.write("Under Construction")
+        st.write("Under construction.")
 
 
 def pie_charts(dataframe):

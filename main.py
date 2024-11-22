@@ -1,6 +1,7 @@
 
 #Adam's Book Collection Interactive Webapp
 #py -m streamlit run main.py
+#https://adambookcollection.streamlit.app/
 
 import streamlit as st
 import pandas as pd
@@ -8,6 +9,7 @@ import plotly.express as plot
 from streamlit_option_menu import option_menu
 from table_manipulations import table_aggregator, table_dimension_filterer
 
+# Disable the below if using the banner code
 st.set_page_config(layout="wide")
 
 

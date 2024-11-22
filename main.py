@@ -49,7 +49,7 @@ def main():
 
     if selected_page == 'The Dataset':
         st.title("Adam's Book Collection")
-        st.write("Select a title to view details, or click a column header to sort.")
+        st.write("Select a title to view details or click a column header to sort.")
         book_table['original_copyright_year'] = book_table['original_copyright_year'].astype(str).str.replace(",", "")
         book_table.rename(columns={'original_copyright_year': 'year'}, inplace=True)
 

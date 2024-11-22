@@ -37,7 +37,7 @@ st.set_page_config(layout="wide")
 def main():
     # When I upload this to Github, I'll need a folder in my repo called "book_tables," and the path to read my csv will be "book_tables\adam_book_collection_
     # webapp_version.csv" with the quotes.
-    book_table = pd.read_csv(r"G:\My Drive\\Data Nerd\Projects\adam_book_collection_webapp\adam_book_collection_webapp_version.csv")
+    book_table = pd.read_csv(r"https://github.com/AdamHauptfeld/adambookcollection/blob/main/adam_book_collection_webapp_version.csv")
     
     with st.sidebar:
         selected_page = option_menu(

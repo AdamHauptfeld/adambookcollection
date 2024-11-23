@@ -53,6 +53,7 @@ def main():
         st.write("You can also search for an entry or download the whole dataset as a csv.")
         book_table['original_copyright_year'] = book_table['original_copyright_year'].astype(str).str.replace(",", "")
         book_table.rename(columns={'original_copyright_year': 'year'}, inplace=True)
+        book_table['latest_listed_year'] = book_table['latest_listed_year'].astype(str).str.replace(",", "")
 
         #This displays the simplified table and also stores the row of any selection the user makes.
         selected_row = st.dataframe(book_table[['title', 'author', 'genre', 'year', 'keywords']],

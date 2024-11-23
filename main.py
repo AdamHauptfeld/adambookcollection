@@ -54,9 +54,9 @@ def main():
         book_table['original_copyright_year'] = book_table['original_copyright_year'].astype(str).str.replace(",", "")
         book_table.rename(columns={'original_copyright_year': 'year'}, inplace=True)
         def clean_year(x):
-            if pd.notnull(x):
-                x = int(x)
-                return int(x).replace(',', '')
+            # if pd.notnull(x):
+            x = int(x)
+            return str(x).replace(',', '')
         book_table['latest _listed_year'] = book_table['latest _listed_year'].apply(clean_year)
 
         #This displays the simplified table and also stores the row of any selection the user makes.

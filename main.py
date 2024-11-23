@@ -53,7 +53,7 @@ def main():
         st.write("You can also search for an entry or download the whole dataset as a csv.")
         book_table['original_copyright_year'] = book_table['original_copyright_year'].astype(str).str.replace(",", "")
         book_table.rename(columns={'original_copyright_year': 'year'}, inplace=True)
-        st.write(book_table['latest _listed_year	'])
+        st.write(book_table['latest _listed_year'])
         # def clean_year(x):
         #     if pd.notnull(x):
         #         return str(x).replace(',', '')

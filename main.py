@@ -54,11 +54,11 @@ def main():
         book_table['original_copyright_year'] = book_table['original_copyright_year'].astype(str).str.replace(",", "")
         book_table.rename(columns={'original_copyright_year': 'year'}, inplace=True)
         st.write(book_table['latest _listed_year'])
-        # def clean_year(x):
-        #     if pd.notnull(x):
-        #         return str(x).replace(',', '')
-        #     return None
-        # book_table['latest_listed_year'] = book_table['latest_listed_year'].apply(clean_year)
+        def clean_year(x):
+            if pd.notnull(x):
+                return str(x).replace(',', '')
+            return None
+        book_table['latest _listed_year'] = book_table['latest _listed_year'].apply(clean_year)
 
         #This displays the simplified table and also stores the row of any selection the user makes.
         selected_row = st.dataframe(book_table[['title', 'author', 'genre', 'year', 'keywords']],

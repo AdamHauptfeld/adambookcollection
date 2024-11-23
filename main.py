@@ -55,6 +55,7 @@ def main():
         book_table.rename(columns={'original_copyright_year': 'year'}, inplace=True)
         def clean_year(x):
             if pd.notnull(x):
+                x = int(x)
                 return str(x).replace(',', '')
         book_table['latest _listed_year'] = book_table['latest _listed_year'].apply(clean_year)
 

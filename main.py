@@ -57,7 +57,7 @@ def main():
             if pd.notnull(x):
                 x = int(x)
                 return str(x).replace(',', '')
-        book_table['latest _listed_year'] = book_table['latest _listed_year'].apply(clean_year)
+        book_table['latest_listed_year'] = book_table['latest_listed_year'].apply(clean_year)
 
         #This displays the simplified table and also stores the row of any selection the user makes.
         selected_row = st.dataframe(book_table[['title', 'author', 'genre', 'year', 'keywords']],

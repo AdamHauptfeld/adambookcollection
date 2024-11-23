@@ -56,7 +56,7 @@ def main():
         def clean_year(x):
             if pd.notnull(x):
                 x = int(x)
-                return str(x).replace(',', '')
+                return int(x).replace(',', '')
         book_table['latest _listed_year'] = book_table['latest _listed_year'].apply(clean_year)
 
         #This displays the simplified table and also stores the row of any selection the user makes.

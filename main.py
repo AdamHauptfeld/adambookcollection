@@ -1,4 +1,3 @@
-
 #Adam's Book Collection Interactive Webapp
 #py -m streamlit run main.py
 #https://adambookcollection.streamlit.app/
@@ -37,7 +36,8 @@ st.set_page_config(layout="wide")
 
 
 def main():
-    book_table = pd.read_csv(r"adam_book_collection_webapp_version.csv")
+    #book_table = pd.read_csv(r"adam_book_collection_webapp_version.csv")
+    book_table = pd.read_csv(r"G:\My Drive\\Data Nerd\Projects\adam_book_collection_webapp\adam_book_collection_webapp_version.csv")
     
     with st.sidebar:
         selected_page = option_menu(
@@ -88,8 +88,9 @@ def main():
     
 
     if selected_page == 'About the project':
-            st.title("Adam's Book Collection")
-            st.write("Under construction.")
+        st.title("Adam's Book Collection")
+        st.caption('“Collect books, even if you don\'t plan on reading them right away. Nothing is more important than an unread library.”')
+        st.caption('-John Waters')
 
     if selected_page == 'Visualizations':
         st.title("Adam's Book Collection")

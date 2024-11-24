@@ -36,8 +36,8 @@ st.set_page_config(layout="wide")
 
 
 def main():
-    #book_table = pd.read_csv(r"adam_book_collection_webapp_version.csv")
-    book_table = pd.read_csv(r"G:\My Drive\\Data Nerd\Projects\adam_book_collection_webapp\adam_book_collection_webapp_version.csv")
+    book_table = pd.read_csv(r"adam_book_collection_webapp_version.csv")
+    #book_table = pd.read_csv(r"G:\My Drive\\Data Nerd\Projects\adam_book_collection_webapp\adam_book_collection_webapp_version.csv")
     
     with st.sidebar:
         selected_page = option_menu(

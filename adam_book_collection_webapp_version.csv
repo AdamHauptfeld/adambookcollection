@@ -1,5 +1,4 @@
 ﻿title,subtitle,author,other_authors,publisher,fiction,genre,keywords,page_count,original_copyright_year,latest_listed_year,read_by_adam,read_by_wife,all_time_fave,hardcover,notes
-So What Are You Going to Do with That?,Finding Careers Outside Academia,Susan Basalla,Maggie Debelius,Chicago,0,Self-Help/Career Building,"Careers, Academia",149,2001,2015,1,0,0,0,
 1001 Nights,,Kay Nielsen,Noel Daniel,Taschen,1,Art,"A Thousand and One Nights, Fairy Tales, Orientalism, Arabian Nights",142,2023,,1,0,0,1,
 13 Steps to Mentalism,,Corinda,,Robbins,0,Magic,"Swami gimmick, Mnemonics, Telepathy, Card tricks",424,1966,1996,0,0,0,1,
 A Brief History of Mathematical Thought,,Luke Heaton,,Oxford,0,Mathematics,"Mathematics, History of mathematics, Mathematical cognition, Mathematical method",321,2017,,0,0,0,1,
@@ -10,7 +9,7 @@ A Distant Mirror,The Calamitous 14th Century,Barbara W. Tuchman,,Ballantine,0,Hi
 A Fire Upon the Deep,,Vernor Vinge,,Tor,1,Science Fiction,Hard sci-fi,613,1992,1993,1,0,0,0,One of the greatest opening scenes I've ever read
 A History of Western Philosophy,,Bertrand Russell,,Touchstone,0,Philosophy,History of philosophy,895,1945,2007,1,0,0,1,
 A Swim in a Pond in the Rain,"In which four Russians give a master class on writing, reading, and life",George Saunders,,Random House,1,Short Stories/Literary Criticism,"Short stories, Russian literature, Literary criticism, Writing",410,2021,2022,2,0,1,0,
-A Thousand Ships,,Eric Shanower,"John Dallaire, Tom Beasley",Image,1,Graphic Novel/Comic,"Greek mythology, The Iliad, Trojan War, Age of Bronze",223,2001,2018,2,0,0,0,
+A Thousand Ships,,Eric Shanower,"John Dallaire, Tom Beasley",Image,1,Graphic Novel/Comic/Mythology,"Greek mythology, The Iliad, Trojan War, Age of Bronze",223,2001,2018,2,0,0,0,
 All Things Shining,Reading the Western Classics to Find Meaning in a Secular Age,Hubert Dreyfus,Sean Dorrance Kelly,Free Press,0,Philosophy,"Paganism, Religion, Nihilism, Meaning of Life",254,2011,,2,0,0,0,Signed by Dreyfus
 Allen & Mike's Really Cool Backpackin' Book,Traveling & Camping skills for a wilderness environment!,Allen O'Bannon,Mike Clelland,FalconGuides,0,Wilderness Guide,"Camping, Nature, Backpacking",161,2001,,2,0,0,0,From Ted's PCT collection
 American Gothic,And Other Fables,Grant Wood,"Barbara Haskell, Glenn Adamson, Eric Banks, Emily Braun, Richard Meyer, Shirley Reece-Hughes",Yale,0,Art,"Grant Wood, American art, Art criticism",271,2018,,1,0,0,1,Gift from the in-laws
@@ -26,7 +25,7 @@ Atomic Habits,An Easy & Proven Way to Build Good Habits & Break Band Ones,James 
 Attached,The New Science of Adult Attachment and How It Can Help You Find - and Keep - Love,Amir Levine,Rachel S. F. Heller,Tarcher Perigee,0,Science,"Psychology, Love, Relationships, Attachment theory",294,2010,2011,0,0,0,0,
 Being and Time,,Martin Heidegger,"John Macquarrie, Edward Robinson",Harper Collins,0,Philosophy,"Being, Time, Existentialism, Phenomenology, Hermeneutics, Authenticity",589,1962,,1,0,0,1,
 Being-in -the-World,"A Commentary on Heidegger's Being and Time, Division I",Hubert L. Dreyfus,,MIT,0,Philosophy,"Heidegger, Being and Time",370,1991,,1,0,0,0,
-Betrayal Part One,,Eric Shanower,John Dallaire,Image,1,Graphic Novel/Comic,"Greek mythology, The Iliad, Trojan War, Age of Bronze",175,2007,2022,2,0,0,0,
+Betrayal Part One,,Eric Shanower,John Dallaire,Image,1,Graphic Novel/Comic/Mythology,"Greek mythology, The Iliad, Trojan War, Age of Bronze",175,2007,2022,2,0,0,0,
 Between the World and Me,,Ta-Nehisi Coates,,Spiegel & Grau,0,Biography/Memoir,"Memoir, Race, Black Life in America, Social justice",152,2015,,2,0,0,1,
 Broke Millennial Takes on Investing,A Beginner's Guide To Leveling Up Your Money,Erin Lowry,,Tarcher Perigee,0,Self-Help/Career Building,"Investing, Stocks, Retirement, Budgeting",241,2019,,2,0,0,0,
 Capital in the Twenty-First Century,,Thomas Piketty,Arthur Goldhammer,Belknap Harvard,0,Social Science,"Capital, Labor, Inequality, Economic history, Political economy, Economics",685,2013,2014,1,0,0,1,
@@ -41,6 +40,7 @@ Computing for Ordinary Mortals,,Robert St. Amant,,Oxford,0,Computing & Programmi
 Conan: The Frost Giant's  Daughter and Other Stories,,Curt Busiek,"Cary Nord, Robert E. Howard",Dark Horse,1,Graphic Novel/Comic,"Fantasy, Sword and Sorcery, Frazetta",192,2005,,2,0,0,0,
 Consciousness and the Brain,Deciphering How the Brain Codes our Thoughts,Stanislas Dehaene,,Penguin,0,Science,"Thought, The Brain, Consciousness, Cognition, Neuroscience",336,2014,,0,0,0,0,
 Conversations with Friends,A Novel,Sally Rooney,,Hogarth,1,Literature,"Friendship, Affair, Romance",309,2017,2018,2,2,1,0,
+Creation Lake,,Rachel Kushner,,Scribner,1,Literature,"France, Commune, Spy",404,2024,,0,0,0,1,"Signed by author, Met her at Miami Book Fair 2024 (very nice) and got it signed"
 Crosshatching in Pen & Ink,The complete practical guide,August Lamm,,Firefly,0,Art Instruction,"Drawing, Crosshatching, Cross hatch",175,2022,,1,0,0,0,
 Dan Greenburg's Confessions of a Pregnant Father,,Dan Greenburg,,Macmillan,0,Parenting/Memoir,"Parenthood, Fatherhood, Humor",214,1986,,1,0,0,1,Signed by the author
 Dante's Divine Comedy,,Seymour Chwast,Dante Allighieri,Bloomsbury,1,Graphic Novel/Comic,"Divine comedy, Inferno, Purgatory, Paradise, Cartooons",127,2010,,2,0,0,1,
@@ -68,12 +68,12 @@ Fairy Tales from the Brothers Grimm,A new English version,Philip Pullman,,Pengui
 Farther Away,Essays,Jonathan Franzen,,Picador,0,Essays,,321,2012,2013,1,0,0,0,Includes 'Pain Won't Kill You' commencement address to Kenyon College
 Fifty Inventions that Shaped the Modern Economy,,Tim Harford,,Riverhead,0,History/Economics,"Economic history, Inventions, Innovation",321,2017,2018,2,0,0,0,
 Figure Drawing,A complete guide to drawing the human body,Jake Spicer,,Hachette,0,Art Instruction,"Drawing, Figure drawing, Drawing technique",286,2021,,1,0,0,0,Very cool Swiss binding
-Figure Drawing for All it's Worth,A book of fundamentals for an artistic career,Andrew Loomis,,TItan,0,Art Instruction,Drawing,204,1943,,0,0,0,0,Stored in slipcase
+Figure Drawing for All it's Worth,A book of fundamentals for an artistic career,Andrew Loomis,,Titan,0,Art Instruction,Drawing,204,1943,,0,0,0,0,Stored in slipcase
 Flatland,A Romance of Many Dimensions,Edwin A. Abbott,,Dover,1,Science Fiction,"Geometry, Mathematics, Romance, Victorian England",83,1884,2014,0,0,0,0,
 Florida,,Lauren groff,,Riverhead,0,Short Stories,"Depressing, Florida, Surrealism",275,2018,,1,2,0,1,
 Forming Impressions,Expertise in perception and Intuition,Elijah Chudnoff,,Oxford,0,Philosophy,"Epistemology, Rationalism, Intuition, Philosophical methodology, Perceptual expertise",229,2021,,0,0,0,1,Signed by Eli
 Frankenstein,"Or, The Modern Prometheus",Mary Wollstonecraft Shelley,"Bernie Wrightson, Stephen Key",Simon & Schuster,1,Horror/Science Fiction,"Illustrations, Classic",244,1818,2021,1,0,0,0,Beautiful illustrations by Bernie Wrightson
-Freedom,,Jonathan Franzen,,Fourth Estate,1,Literature,,706,2010,2011,2,0,0,0,Found at The Arcadian Hotel in Boston the weekend of the Charles River cruise. Maybe the best novel I've ever read.
+Freedom,,Jonathan Franzen,,Fourth Estate,1,Literature,,706,2010,2011,2,0,0,0,Found at The Arcadian Hotel in Boston the weekend of the Charles River cruise in 2024. Maybe the best novel I've ever read.
 Fundamentals,Ten Keys to reality,Frank Wilczek,,Penguin,0,Science,"Physics, Fundamental physics, Quantum mechanics, Particle physics, Relativity",254,2021,,2,0,0,1,
 Galileo's Middle Finger,,Alice Dreger,,Penguin,0,Science/Memoir/History,"Intellectual freedom, Free thought, Intersex, History of science",337,2015,,2,0,0,1,Signed by the author at UM
 Gender Queer,A Memoir,Maia Kobabe,,Oni,0,Graphic Novel/Comic/Memoir,"Gender, LGBTQ, Queer, Gender identity, Memoir",239,2020,2022,2,0,0,0,
@@ -104,6 +104,7 @@ Justice,What's The Right Thing To Do?,Michael J. Sandel,,"Farrar, Straus, & Giro
 Lady Chatterley's Lover,,D. H. Lawrence,"Kathryn Harrison, Keuth Cushman",Modern Library,1,Literature,,362,1928,2001,1,0,0,0,
 Liberation Day,Stories,George Saunders,,Random House,1,Short Stories,Short stories,233,2022,,2,1,0,1,
 Life Against Death,The Psychoanalytical Meaning of History,Norman O. Brown,Christopher Lasch,Wesleyan,0,Psychoanalysis/Philosophy/History,"Freud, Psychoanalysis, Death instinct, Neurosis, Philosophy of history",366,1959,1989,2,0,1,0,
+Life and Death of the American Worker,The Immigrants Taking on America's Largest Meatpacking Company,Alice Driver,,One Signal/Atria,0,Journalism/Biography,"Tyson, Chickens, Meatpacking, Immigration, Exploitation, Arkansas",250,2024,,0,0,0,1,"Signed by author, Saw her speak at Miami Book Faire but had to leave and didn't get to have her sign it (I bought my signed copy from the B&B stand)"
 Living with Guns,A Liberal's Case for the Second Amendment,Craig R. Whitney,,Public Affairs,0,Social Science,"Guns, Law, Gun violence, Crime",284,2012,,0,0,0,1,
 Locke on Human Understanding,,E. J. Lowe,,Routledge,0,Philosophy,"John Locke, Empiricism",203,1995,,1,0,0,0,
 Locking Up Our Own,Crime and Punishment in Black America,James Foreman Jr.,,"Farrar, Straus, & Giroux",0,Social Science,"Criminal justice, Police, Race, Social justice, Black life in America",306,2017,2018,0,0,0,0,
@@ -122,15 +123,15 @@ Mythologies,,Roland Barthes,Annette lavers,Hill and Wang,0,Philosophy,"Semiotics
 Naming and Necessity,,Saul A. Kripke,,Harvard,0,Philosophy,"Analytic philosophy, Names, Philosophy of language, Rigid designation",172,1972,1999,2,0,0,0,
 Naturalism Without Mirrors,,Huw Price,,Oxford,0,Philosophy,"Metametaphysics, Naturalism, Pragmatism",336,2011,,0,0,0,1,
 Nothing is True and Everything is Possible,The Surreal heart of the New Russia,Peter Pomerantsev,,Public Affairs,1,Journalism,"Russia, Kremlin, Dystopia, Memoir",243,2014,2020,2,0,0,0,
-N-Space,,Larry Niven,Tom Clancy,Tor,1,Science Fiction,Short stories,693,1990,1991,1,0,0,0,Includes 'Inconstant Moon'
+N-Space,,Larry Niven,Tom Clancy,Tor,1,Science Fiction,Short stories,693,1990,1991,1,0,0,0,Includes 'Inconstant Moon' which is one of my favorite sci-fi short stories
 On Photography,,Susan Sontag,,Delta,0,Art,"Art criticism, photography",207,1973,1979,0,0,0,0,
 On the Problem of Empathy,,Edith Stein,Waltraut Stein,Institute of Carmelite Studies,0,Philosophy,"Phenomenology, Empathy",135,1917,1989,1,0,0,0,This was the book the Kendall reading group was reading when Covid interrupted our semester.
 Ontology Made Easy,,Amie L. Thomasson,,Oxford,0,Philosophy,"Ontology, Metaontology, Carnap, Deflationism",345,2015,,0,0,0,1,Loaned to a student and she actually returned it!
 Open Borders,The Science and Ethics of Immigration,Bryan Caplan,Zach Weinersmith,First Second,0,Social Science,"Immigration, Comic, Economics, Ethics, Border policy",248,2019,,2,0,0,0,
 Ordinary Objects,,Amie L. Thomasson,,Oxford,0,Philosophy,"Metaphysics, Analyticity, Ordinary Objects, Deflationism, Ontology, Metaontology",240,2007,,2,0,0,0,
 Other Minds,"The Octopus, The Sea, and the Deep Origins of Consciousness",Peter Godfrey-Smith,,"Farrar, Straus, & Giroux",0,Philosophy/Science,"Philosophy of Mind, Consciousness, Octopuses",255,2016,2017,0,0,0,0,
-Parasyte 1,,Hitoshi Iwaaki,,Kodansha Comics,1,Comic/Horror,"Body horror, parasite",277,2003,2013,2,0,0,0,
-Parasyte 2,,Hitoshi Iwaaki,,Kodansha Comics,1,Comic/Horror,"Body horror, parasite",278,2003,2013,2,0,0,0,
+Parasyte 1,,Hitoshi Iwaaki,,Kodansha Comics,1,Comic/Horror,"Body horror, Parasite, Manga",277,2003,2013,2,0,0,0,
+Parasyte 2,,Hitoshi Iwaaki,,Kodansha Comics,1,Comic/Horror,"Body horror, Parasite, Manga",278,2003,2013,2,0,0,0,
 Pastel Painting Atelier,"Essential Lessons in techniques, Pracites, and Materials",Ellen Eagle,,Watson Guptill,0,Art/Art Instruction,"Pastels, Pastel painting, Pastel technique, Portraits",192,2013,,1,0,0,1,
 Personal Identity,,John Perry,"David Hume, John Locke, Bernard Williams",University of California,0,Philosophy,Personal identity,346,2008,,0,0,0,0,
 Philosophical Analysis in the Twentieth Century,Volume 1: The Dawn of Analysis,Scott Soames,,Princeton,0,Philosophy,"History of philosophy, Analytic philosophy",411,2003,2005,1,0,0,0,
@@ -143,20 +144,20 @@ Play Optimal Poker,Practical Game Theory For Every Poker Player,Andrew Brokos,,S
 Poems that Make Grown Men Cry,100 men on the words that move them,Anthony Holden,Ben Holden,Simon & Schuster,0,Poetry,"Poetry, Men, Celebrities, ",310,2014,2015,1,0,0,0,
 Post Office,,Charles Bukowski,,Ecco,1,Literature,,208,1971,2014,0,0,0,0,
 Private Citizens,A Novel,Tony Tulathimutte,,William Morrow,1,Literature,"Millenials, Oughts, Bay Area",372,2016,,0,0,0,0,
-Problems of Knowledge,A critical introduction to epistemology,Michael Williams,,Oxford,0,Philosophy,"Knowledge, epistemology, Wilfrid Sellars, Groundless belief",276,2001,,0,0,0,0,
-Providence,Act 1,Alan Moore,Jacen Burrows,Avatar,1,Graphic Novel/Comic,"Lovecraftian, Eldritch, Horror, Cthulhu",160,2017,,2,0,0,1,
+Problems of Knowledge,A critical introduction to epistemology,Michael Williams,,Oxford,0,Philosophy,"Knowledge, Epistemology, Wilfrid Sellars, Groundless belief",276,2001,,0,0,0,0,
 Providence,Act 2,Alan Moore,Jacen Burrows,Avatar,1,Graphic Novel/Comic,"Lovecraftian, Eldritch, Horror, Cthulhu",176,2017,,2,0,0,1,
+Providence,Act 1,Alan Moore,Jacen Burrows,Avatar,1,Graphic Novel/Comic,"Lovecraftian, Eldritch, Horror, Cthulhu",160,2017,,2,0,0,1,
 Providence,Act 3,Alan Moore,Jacen Burrows,Avatar,1,Graphic Novel/Comic,"Lovecraftian, Eldritch, Horror, Cthulhu",144,2017,,2,0,0,1,
 Python Crash Course,"A Hands-On, Project-Based Introduction to Programming",Eric Matthes,,No Starch,0,Computing & Programming,"Pyhton, Programming, Python Projects, Pygame",506,2015,2019,1,0,0,0,
 Python Data Science Handbook,Essential Tooks for Working with Data,Jake VanderPlas,,O'Reilly,0,Computing & Programming,"Python, Data science, Pandas, Jupyter, Data analytics, Numpy, Matplotlib, Machine learning",529,2016,2017,0,0,0,0,
-Rationality,,Bryan R. Wilson,,Blackwell,0,Philosophy,"Philosophy of Social Science, Sociology, Anthropology, Interpretation",275,1970,,1,0,0,0,
 Rationality,"What It Is, Why It Seems Scarce, Why It Matters",Steven Pinker,,Viking,0,Philosophy,"Rationality, Reasoning, Critical thinking, Bias, Probability, Bayesianism, Decision theory",412,2021,,2,0,0,1,
+Rationality,,Bryan R. Wilson,,Blackwell,0,Philosophy,"Philosophy of Social Science, Sociology, Anthropology, Interpretation",275,1970,,1,0,0,0,
 Reading in the Brain,The New Science of How We Read,Stanislas Dehaene,,Penguin,0,Science,"Reading, Cognition, Neuropsychology",388,2009,2010,1,0,0,0,
 Reason in the Balance,An Inquiry Approach to Critical Thinking,Sharon Bailin,Mark Battersby,Hackett,0,Philosophy,"Textbook, Critical thinking, Argumentation, Inquiry",487,2016,,0,0,0,0,Met the author at the Greensboro AAPT conference
 Reassembling Model of Reality,Theory and Clinical Practice,Aldrich Chan,"Louis Cozolino, Daniel J. Siegel",Norton,0,Science,"Neuropsychology, Cognition, Therapy",351,2021,,1,0,0,0,Signed by Aldrich
 Responsibility for Justice,,Iris Marion Young,,Oxford,0,Philosophy,"Responsibility, Social ethics, Ethics, Justice",193,2011,2013,0,0,0,0,
 Riders in Disguise,A Novel,Patrick Anderson Jr.,,Jitney,1,Literature,"Miami, Dadeland mall, Detectives, Cocaine",289,2023,,0,0,0,0,Signed by the author
-Sacrifice,,Eric Shanower,John Dallaire,Image,1,Graphic Novel/Comic,"Greek mythology, The Iliad, Trojan War, Age of Bronze",223,2004,2020,2,0,0,0,
+Sacrifice,,Eric Shanower,John Dallaire,Image,1,Graphic Novel/Comic/Mythology,"Greek mythology, The Iliad, Trojan War, Age of Bronze",223,2004,2020,2,0,0,0,
 Sapiens,A Brief History of Humankind,Yuval Noah Harari,,Harper Perennial,0,Science/Social Science/History,"Anthropology, Ideology, History, World history, Sociology",443,2015,2018,2,0,0,0,
 SAS Survival Handbook,The Ultimate Guide to Surviving Anywhere,John 'Lofty' Wiseman,,Morrow,0,Wilderness Guide,"Camping, Survival, Nature",672,1986,2014,2,0,0,0,
 Save the Cat! Writes a Novel,The Last Book on Novel Writing You'll ever Need,Jessica Brody,,Ten Speed,0,Reference/Grammar,"Creative Writing, Novels, Writing, Composition",313,2018,,1,0,0,0,
@@ -168,6 +169,7 @@ Six Easy Pieces,Essential sof Physics Explained by Its Most Brilliant teacher,Ri
 Skepticism and the Veil of Perception,,Michael Huemer,,Rowman and Littlefield,0,Philosophy,"Epistemology, Skepticism, Dogmatism, Phenomenal Conservatism, Direct realism, Perception",207,2001,2015,2,0,0,0,
 Sketch Every Day,Over 200 Pages of Art and Sketching Techniques from Simone Grunwald,Simone Grunwald,,3dtotal,0,Art Instruction,"Art career, Drawing, Art technique,  Cartoon",207,2019,2022,1,0,0,0,Signed by author
 Slaughterhouse-Five,Or The Children's Crusade,Kurt Vonnegut,,Dell,1,Literature,"Dresden, WWII, Satire, War, Time, Tralfamadorians",215,1966,1991,2,2,0,0,"Jordan's book, technically"
+So What Are You Going to Do with That?,Finding Careers Outside Academia,Susan Basalla,Maggie Debelius,Chicago,0,Self-Help/Career Building,"Careers, Academia",149,2001,2015,1,0,0,0,
 Stamped from the Beginning,The Definitive History of Racist Ideas in America,Ibram X. Kendi,,Bold Type,0,Social Science,"Race, Racism, American history, Ideology, History of ideas",582,2016,2017,0,0,0,0,
 Steppenwolf,A Novel,Herman Hesse,,Picador,1,Literature,,218,1927,,0,0,0,0,
 Stoner,,John Williams,John McGahren,New York Review of Books,1,Literature,,278,1965,2003,0,0,0,0,
@@ -196,10 +198,11 @@ The Coast of California,,Tom Killion,,David R. Godine,0,Art,"California, Santa C
 The Consequences of Modernity,,Anthony Giddens,,Stanford,0,Social Science,"Modernity, Postmodernity, Sociology",186,1990,1997,1,0,0,0,
 The Consolations of Philosophy,,Alain de Botton,,Vintage,0,Philosophy,"Socrates, Epicurus, Seneca, Montaigne, Schopenhauer, Nietzsche",263,2000,2001,2,0,0,0,
 The Courage to Be,,Paul Tillich,Harvey Cox,Yale,0,Philosophy,"Being, Existentialism, Courage, Anxiety",187,1952,2014,2,0,0,0,
-The Deepest Human Life,An Introduction to Philosophy for Everyone,Scott Samuelson,,Chicago,0,Philosophy,"Happiness, God, Morality",2016,2014,2015,1,0,0,0,"Met the author at the AAPT in Greensboro I think, maybe Saginaw"
+The Deepest Human Life,An Introduction to Philosophy for Everyone,Scott Samuelson,,Chicago,0,Philosophy,"Happiness, God, Morality",232,2014,2015,1,0,0,0,"Met the author at the AAPT in Greensboro I think, maybe Saginaw"
 The Deficit Myth,Modern Monetary Theory and the Birth of the People's Econom,Stephanie Kelton,,Public Affairs,0,Social Science,"MMT, Modern Monetary Theory, Debt, Monetary policy, Fiat currency",325,2020,,2,0,0,1,
 The Discover of Being,,Rollo May,,Norton,0,Philosophy,"Existentialism, Therapy, Kierkegaard, Nietzsche",202,1983,2015,2,0,0,0,
-The Divided Self,,R. D. Lang,,Penguin,0,Science/Social Science,"Psychology, Psychosis, The self, Existentialism, Anxiety",2018,1959,1990,0,0,0,0,
+The Divided Self,,R. D. Lang,,Penguin,0,Science/Social Science,"Psychology, Psychosis, The self, Existentialism, Anxiety",224,1959,1990,0,0,0,0,
+The Dream-Quest of Unknown Kadath & Other Stories,,H. P. Lovecraft,Jason Bradley Smith,Mock man,1,Graphic Novel/Comic,"Lovecraft, Nyarlathotep, Kadath, Eldritch",179,2011,,2,0,1,1,"Signed by the author, Beautiful map on the inside covers"
 The Drunkard's Walk,How Randomness Rules Our Lives,Leonard Mlodinow,,Pantheon,0,Mathematics,"Probability, Chance, Randomness",252,2008,,0,0,0,1,
 The Economy,Economics for a changing world,Samuel Bowles,"Wendy Carlin, Margaret Stevens, et al.",Oxford,0,Social Science,"Economics, Textbook",1126,2017,,0,0,0,0,
 The Elegance of the Hedgehog,,Muriel Barbery,,Europa,1,Literature,"Paris, Intellectual Life",325,2006,2016,0,0,0,0,
@@ -222,7 +225,7 @@ The Life of Samuel Johnson,,James Boswell,,Modern Library,0,Biography/Memoir,"Sa
 The Lost Continent,Travels in Small-Town America,Bill Bryson,,Harper Perennial,0,Travel,"Humor, America,Travelogue, Real America, Roadtrip",314,1989,1990,0,0,0,0,Pop's copy
 The Making of Economic Society,,Robert L. Heilbroner,William Milberg,Pearson Prentice Hall,0,Social Science,"Economics, Market Society, Economic History, Economic Theory, Capitalism, Socialism",227,1998,2008,2,0,1,0,
 The Map and the Territory,A Novel,Michel Houellebecq,Gavin Bowd,Knopf,1,Literature,"France, Prix Goncourt award",269,2010,2012,2,0,0,1,
-The Mars Room,A Novel,Rachel Kushner,,Scribner,1,Literature,,338,2018,2019,1,0,1,0,Begins in Valencia
+The Mars Room,A Novel,Rachel Kushner,,Scribner,1,Literature,,338,2018,2019,1,0,1,0,"Begins in Valencia, Met her at Miami Book Fair 2024 (very nice) and got it signed"
 The Meaning of Belief,Religion From an Atheist's Point of View,Tim Crane,,Harvard,0,Philosophy,"Atheism, Religion",207,2017,,0,0,0,1,
 The Mechanical Mind,"A philosophical introduction to minds, machines, and mental representation",Tim Crane,,Routledge,0,Philosophy,"Philosophy of mind, functionalism, Mental representation, Computational theory of mind",259,1995,2007,0,0,0,0,
 The Morality of Happiness,,Julia Annas,,Oxford,0,Philosophy,"Ethics, Virtue Ethics, Greek philosophy, Ancient philosophy, The good life",502,1993,1995,1,0,0,0,
@@ -245,7 +248,7 @@ The Revolt of the Masses,,Jose Ortega y Gasset,,Norton,0,Philosophy,"Social phil
 The Riddle of the World,A Reconsideration of Schopenhauer's Philosophy,Barbara Hannan,,Oxford,0,Philosophy,"Schopenhauer, Pessimism, Aesthetics, Idealism",160,2009,,2,0,0,0,
 The Selfish Gene,,Richard Dawkins,,Oxford,0,Science,"Evolution, Genetics",352,1976,1999,0,0,0,0,
 The Shallows,What the Internet is Doing to Our Brains,Nicholas Carr,,Norton,0,Science/Social Science,"The internet, Psychology, Addiction, History of technology, Reading, Neuropsychology",280,2010,2011,2,1,1,0,
-The Silk Roads,A New History of the World,Peter Frankopan,,Bloomsbury,0,History,"World history, history, Central Asian history",636,2015,,2,1,1,0,"Listened to audiobook on the drive to Nashville, 2021 or 2022"
+The Silk Roads,A New History of the World,Peter Frankopan,,Bloomsbury,0,History,"World history, history, Central Asian history",636,2015,,2,1,1,0,Listened to audiobook on the drive to Nashville 2020
 The Social Animal,,Elliot Aronson,,Freeman,0,Social Science,Social Psychology,324,1972,,0,0,0,0,
 The Social Construction of What?,,Ian Hacking,,Harvard,0,Philosophy,"Sociology of Knowledge, Philosophy of Science",261,1999,2000,0,0,0,0,
 The Song of Achilles,A Novel,Madeline Miller,,Ecco,1,Literature,"Greek mythology, The Iliad, Trojan War",378,2012,,0,0,0,0,
@@ -271,6 +274,7 @@ Theory and Reality,An introduction to the philosophy of science,Peter Godfrey-Sm
 Things Fall Apart,,Chinua Achebe,,Anchor,1,Literature,,209,1959,1994,0,0,0,0,
 Think,A compelling introduction to philosophy,Simon Blackburn,,Oxford,0,Philosophy,Textbook,312,1999,,2,0,0,1,
 Think Python,How to Think Like a Computer Scientist,Allen B. Downey,,O'Reilly,0,Computing & Programming,"Python, Programming",268,2012,2016,1,0,0,0,
+This Is What It Sounds Like,A Legendary Producer Turned Neuroscientist on Finding Yourself Through Music,Susan Rogers,Ogi Ogas,Norton,0,Music,"Music, Neuroscience, Musical identity, Aesthetics",274,2022,2023,0,0,0,0,
 Tiny Homes Simple Shelter,Scaling Back in the 21st Century,Lloyd Kahn,,Shelter,0,Architecture,"Cabins, Homes, Houses, Hippies, Architecture",215,2012,,2,1,0,0,
 Touching the Rock,An experience of blindness,John M. Hull,Oliver Sacks,SPCK,0,Biography/Memoir,Blindness,192,1990,2016,1,0,0,0,
 Tractatus Logico-Philosophicus,,Ludwig Wittgenstein,Bertrand Russell,Dover,0,Philosophy,"Truth tables, Language, Analytic philosophy",125,1922,1999,2,0,0,0,
@@ -282,6 +286,7 @@ Unwind,,Neal Shusterman,,Simon & Schuster,1,Science Fiction,"Reproduction, Survi
 V for Vendetta,,Alan moore,"David Lloyd, Steve Whitaker, Siobhan Dodds",Vertigo,1,Graphic Novel/Comic,Orwellian,288,1988,2005,2,2,1,0,
 We Learn Nothing,Essays,Tim Kreider,,Simon & Schuster,0,Essays,"Essays, Humor, Stabbing, Memoir, Cartoons",232,2012,2013,1,0,0,0,
 We're Pregnant!,The First-Time Dad's Pregnancy Handbook,Adrian Kilp,Heather B. Armstrong,Rockridge,0,Parenting,"Parenthood, Fatherhood, Pregnancy",280,2018,,0,0,0,0,
+Westofchester's ABCs of Miami,,Melissa Gutierrez,,"O, Miami",0,Art/Poetry,Miami,26,2024,,2,2,0,1,
 What Does It All Mean?,A very short introduction to philosophy,Thomas Nagel,,Oxford,0,Philosophy,Textbook,101,1987,,2,0,0,0,
 What is Analytic Philosophy?,,Hans-Johann Glock,,Cambridge,0,Philosophy,"History of philosophy, Analytic philosophy",292,2008,,2,0,0,0,
 What is Mathematics,An Elementary Approach to Ideas and Methods,Richard Courant,"Herbert Robbins, Ian Stewart",Oxford,0,Mathematics,Mathematics,566,1941,1996,0,0,0,0,
@@ -297,5 +302,3 @@ Women,,Charles Bukowski,,Ecco,1,Literature,,291,1978,2014,0,0,0,0,
 World War Z,An Oral History of the Zombie War,Max Brooks,,Broadway,1,Horror,"Zombies, Turkelesque, Survival",342,2006,2007,1,0,0,0,
 Write to the Point,A Master Class on the Fundamentals of Writing for Any Purpose,Sam Leith,,The Experiment,0,Reference/Grammar,"Writing, Style, Grammar, Rhetoric, Punctuation, Composition",263,2017,2018,2,0,1,0,
 Zhuangzi Speaks,The Music of Nature,Tsai Chih Chung,"Brian Bruya, Donald J. Munro",Princeton,0,Philosophy,"Doaism, Zhuagnzi, Chinese philosophy, Eastern philosophy, Cartoons",142,1992,,1,0,0,0,Gift from Ben
-The Dream-Quest of Unknown Kadath & Other Stories,,H. P. Lovecraft,Jason Bradley Smith,Mock man,1,Graphic Novel/Comic,"Lovecraft, Nyarlathotep, Kadath, Eldritch",179,2011,,2,0,1,1,"Signed by the author, Beautiful map on the inside covers"
-This Is What It Sounds Like,A Legendary Producer Turned Neuroscientist on Finding Yourself Through Music,Susan Rogers,Ogi Ogas,Norton,0,Music,"Music, Neuroscience, Musical identity, Aesthetics",274,2022,2023,0,0,0,0,

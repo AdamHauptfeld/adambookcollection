@@ -116,12 +116,12 @@ def dashboard(dataframe):
         
         remainder_dataframe = pd.concat([dataframe, filtered_dataframe]).drop_duplicates(keep=False)
 
-        data = {"Names": [" Selection", " Remaining Collection",],\
+        data = {"Names": [" Selection", " Rest of Collection",],\
                 "Count" : [(filtered_dataframe['title']).count(),\
                             (remainder_dataframe['title']).count()]}
         pie_chart_dataframe = pd.DataFrame(data)
         pie_chart = px.pie(pie_chart_dataframe, values = "Count", names = "Names", color = "Names",\
-                            color_discrete_map={' Selection':'blue',' Remaining Collection':'lightblue'})
+                            color_discrete_map={' Selection':'blue',' Rest of Collection':'lightblue'})
         pie_chart.update_layout(title='% of Total Collection', showlegend=False)
         pie_chart.update_traces(textposition='inside', textinfo='percent+label')
         g.plotly_chart(pie_chart)

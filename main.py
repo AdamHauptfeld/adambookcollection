@@ -20,7 +20,7 @@ def main():
         selected_page = option_menu(
             menu_title = None, 
             options = ['Dashboard', 'The Dataset', 'About the project'],
-            icons = ['book', 'blockquote-left', 'graph-up'],
+            icons = ['bar_chart', 'page_with_curl', 'book'],
             default_index=0
         )
     

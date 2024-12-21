@@ -31,9 +31,6 @@ def main():
     if selected_page == 'The Dataset':
         dataset_viewer(book_table)
 
-    if selected_page == 'Dataset Documentation':
-        st.title("Dataset Documentation") 
-
     if selected_page == 'About the project':
         st.title("About the project")
         st.caption('“Collect books, even if you don\'t plan on reading them right away. Nothing is more important than an unread library.”')

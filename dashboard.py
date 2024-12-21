@@ -1,7 +1,6 @@
 #py -m streamlit run dashboard.py
 
 import streamlit as st
-from annotated_text import annotated_text
 import pandas as pd
 import plotly.express as px
 

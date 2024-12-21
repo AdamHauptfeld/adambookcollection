@@ -55,7 +55,6 @@ def dashboard(dataframe):
 
     #This is the slicer column
     with col[0]:
-        st.markdown(#### 'Select a Subset')
         dimensions = ['N/A - Use the whole table', 'Fiction', 'Non-fiction',  'Finished', 'Unfinished', 'Favorites', 'Hardcover', 'Softcover']
         selected_dimension = st.selectbox("Select a filter:", dimensions)
         if selected_dimension == 'N/A - Use the whole table':

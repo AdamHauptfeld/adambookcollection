@@ -1,5 +1,4 @@
 import streamlit as st
-from annotated_text import annotated_text as annotate
 import pandas as pd
 from streamlit_option_menu import option_menu
 

@@ -13,7 +13,7 @@ st.set_page_config(page_title = "Adam's Book Collection", page_icon="📚", layo
 
 
 def main():
-    book_table = pd.read_csv(r"adam_book_collection_webapp_version.csv")
+    book_table = pd.read_csv(r"adam_book_collection.csv")
     #book_table = pd.read_csv(r"G:\My Drive\\Data Nerd\Projects\adam_book_collection_webapp\adam_book_collection_webapp_version.csv")
     
     with st.sidebar:

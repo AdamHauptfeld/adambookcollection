@@ -110,7 +110,7 @@ def dataset_viewer(dataframe):
 
             year - Year of original copyright
             
-            latest_listed_year - Last year included in the copywrite page, possibly null
+            latest_listed_year - Last year in the copywrite page if different than original copyright year, possibly null
             
             read_by_adam - 0 for not read, 1 for partially read, 2 for finished
             

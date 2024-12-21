@@ -20,7 +20,7 @@ def main():
         selected_page = option_menu(
             menu_title = None, 
             options = ['Dashboard', 'The Dataset', 'About the project'],
-            icons = ['line_chart', 'ledger', 'book'],
+            icons = ['chart_with_upwards_trend', 'book', 'lightning'],
             default_index=0
         )
     

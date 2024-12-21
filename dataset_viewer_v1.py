@@ -102,7 +102,7 @@ def dataset_viewer(dataframe):
 
             fiction - 1 for fiction, 0 for non-fiction
 
-            genre - Pretty general ("Science" rather than "Biology", "Science Fiction" rather than "Hard Sci-Fi", can use '/' delimiter
+            genre - Pretty general ("Science" rather than "Biology", "Science Fiction" rather than "Hard Sci-Fi"), uses '/' delimiter
 
             keywords - Strings between double quotes to prevent commas from being interpreted as delimiters
 

@@ -95,6 +95,7 @@ def dashboard(dataframe):
 
 
     with col[1]: 
+        st.markdown('Select a Subset')
         a, b, c, d, e, f = st.columns(6)
         g, h = st.columns(2)
         a.metric('Total Books', filtered_dataframe['title'].count(), border=True)
@@ -122,7 +123,7 @@ def dashboard(dataframe):
         pie_chart_dataframe = pd.DataFrame(data)
         pie_chart = px.pie(pie_chart_dataframe, values = "Count", names = "Names", color = "Names",\
                             color_discrete_map={' Selection':'blue',' Remaining Collection':'lightblue'})
-        pie_chart.update_layout(title='Selection Percentage of Total', showlegend=False)
+        pie_chart.update_layout(title='% of Total Collection', showlegend=False)
         pie_chart.update_traces(textposition='inside', textinfo='percent+label')
         g.plotly_chart(pie_chart)
 

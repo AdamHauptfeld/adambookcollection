@@ -102,13 +102,17 @@ def dashboard(dataframe):
         c.metric('Total Page Count', filtered_dataframe['page_count'].sum(), border=True)
         d.metric('Pages Read', filtered_dataframe[filtered_dataframe['read_by_adam'] == 2]['page_count'].sum(), border=True)
 
-        median_pages = str(filtered_dataframe['page_count'].median())
-        median_pages = median_pages[:-2]
-        e.metric('Median Page Count', median_pages, border=True)
+        if filtered_dataframe.empty:
+            e.metric('Median Page Count', 0, border=True)
+            f.metric('Avg Publication Year', 0, border=True)
+        else:
+            median_pages = str(filtered_dataframe['page_count'].median())
+            median_pages = median_pages[:-2]
+            e.metric('Median Page Count', median_pages, border=True)
 
-        average_year = str(filtered_dataframe['original_copyright_year'].mean().round(decimals=0))
-        average_year = average_year[:-2]
-        f.metric('Avg Publication Year', average_year, border=True)
+            average_year = str(filtered_dataframe['original_copyright_year'].mean().round(decimals=0))
+            average_year = average_year[:-2]
+            f.metric('Avg Publication Year', average_year, border=True)
 
     
         # Pie chart, part un

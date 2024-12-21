@@ -109,9 +109,13 @@ def dataset_viewer(dataframe):
             page_count - This is the last numbered page in the book, possibly on index or appendix page
 
             year - Year of original copyright
+            
             latest_listed_year - Last year included in the copywrite page, possibly null
-            read_by_adam - 0 for not read, 1 for partially read, 2 for finishedL
+            
+            read_by_adam - 0 for not read, 1 for partially read, 2 for finished
+            
             read_by_wife - 0 for not read, 1 for partially read, 2 for finished
+            
             hardcover - 0 for softcover, 1 for hardcover
 
             notes - Varies

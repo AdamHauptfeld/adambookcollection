@@ -23,7 +23,7 @@ def main():
             icons = ['graph-up', 'star', 'book'],
             default_index=0
         )
-        st.markdown('<a href="mailto:adam.h.analytics@gmail.com">Email Me</a>', unsafe_allow_html=True)
+        st.markdown('<a href="mailto:adam.h.analytics@gmail.com">       Email Me</a>', unsafe_allow_html=True)
     
     if selected_page == 'Dashboard':
         dashboard(book_table)

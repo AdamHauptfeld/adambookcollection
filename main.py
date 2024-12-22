@@ -14,12 +14,11 @@ st.set_page_config(page_title = "Adam's Book Collection", page_icon="📚", layo
 
 def main():
     book_table = pd.read_csv(r"adam_book_collection.csv")
-    #book_table = pd.read_csv(r"G:\My Drive\\Data Nerd\Projects\adam_book_collection_webapp\adam_book_collection_webapp_version.csv")
     
     with st.sidebar:
         selected_page = option_menu(
             menu_title = None, 
-            options = ['Dashboard', 'The Dataset', 'About the project'],
+            options = ['Dashboard', 'The Collection', 'About the project'],
             icons = ['graph-up', 'star', 'book'],
             default_index=0
         )
@@ -28,7 +27,7 @@ def main():
     if selected_page == 'Dashboard':
         dashboard(book_table)
 
-    if selected_page == 'The Dataset':
+    if selected_page == 'The Collection':
         dataset_viewer(book_table)
 
     if selected_page == 'About the project':

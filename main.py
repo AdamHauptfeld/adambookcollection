@@ -18,7 +18,7 @@ def main():
     with st.sidebar:
         selected_page = option_menu(
             menu_title = None, 
-            options = ['Dashboard', 'The Collection', 'About the project'],
+            options = ['Dashboard', 'The Collection', 'About the Project'],
             icons = ['graph-up', 'star', 'book'],
             default_index=0
         )
@@ -30,8 +30,8 @@ def main():
     if selected_page == 'The Collection':
         dataset_viewer(book_table)
 
-    if selected_page == 'About the project':
-        st.title("About the project")
+    if selected_page == 'About the Project':
+        st.title("About the Project")
         st.caption('“Collect books, even if you don\'t plan on reading them right away. Nothing is more important than an unread library.”')
         st.caption('-John Waters')
         st.header('I Love My Books')

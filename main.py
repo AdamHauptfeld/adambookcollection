@@ -9,7 +9,7 @@ from dashboard import dashboard
 from dataset_viewer_v1 import dataset_viewer
 
 
-st.set_page_config(page_title = "Adam's Book Collection", page_icon="📚", layout="wide", initial_sidebar_state="collapsed",)
+st.set_page_config(page_title = "Adam's Book Collection", page_icon="📚", layout="wide", initial_sidebar_state="expanded",)
 
 
 def main():

@@ -31,6 +31,7 @@ def main():
         dataset_viewer(book_table)
 
     if selected_page == 'About the Project':
+        st.title("Adam Hauptfeld")
         st.title("About the Project")
         st.caption('“Collect books, even if you don\'t plan on reading them right away. Nothing is more important than an unread library.”')
         st.caption('-John Waters')

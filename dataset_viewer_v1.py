@@ -119,6 +119,8 @@ def dataset_viewer(dataframe):
             hardcover - 0 for softcover, 1 for hardcover
 
             notes - Varies
+
+            removed/missing - 1 if physical copy no longer in my collection, otherwise null
                      '''
             st.write(table_documentation)
 

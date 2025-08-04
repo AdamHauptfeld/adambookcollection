@@ -40,7 +40,8 @@ def main():
         Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in \
         reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in \
         culpa qui officia deserunt mollit anim id est laborum."
-        st.write(lorem_ipsum)
+        # st.write(lorem_ipsum)
+        st.write('Check out this other guy's list! - https://what-dan-read.com/')
         st.header('Project Challenges')
         st.write(lorem_ipsum)
         st.header('What I Learned')
@@ -243,4 +244,5 @@ main()
 #Create line chart of grouped table
 # if st.button("Create Viz"):
 #     st.line_chart(table_grouped.rename(columns={'original_copyright_year': 'index'}).set_index('index'))
+
 
